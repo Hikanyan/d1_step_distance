@@ -1,4 +1,8 @@
-﻿using System;
+﻿//https://paiza.jp/works/mondai/drankfast/d1_step_distance
+
+using System;
+
+
 
 class Program
 {
